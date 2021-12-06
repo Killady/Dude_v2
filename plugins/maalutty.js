@@ -11,7 +11,7 @@ var ddd = ggg.toString('utf-8')
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-WhatsAlexa.addCommand({pattern: 'maalutty', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+WhatsAlexa.addCommand({pattern: 'Dude_sir', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
 // send a buttons message!
     var plk_say = new Date().toLocaleString('HI', { timeZone: 'Asia/Kolkata' }).split(' ')[1]
 const get_localized_date = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
@@ -21,13 +21,13 @@ var afnplk = '```⏱ Time :' + plk_say + '```\n\n ```📅 Date :' + plk_here + '
 
         {buttonId: 'id1', buttonText: {displayText: 'ASUGAMAAN \n sugalla 😌'}, type: 1},
         {buttonId: 'id2', buttonText: {displayText: 'onn poodey😏 '}, type: 1},
-        {buttonId: 'id3', buttonText: {displayText: 'NALLA SUGAAN☺️ \n Maalutty😘'  }, type: 1},
+        {buttonId: 'id3', buttonText: {displayText: 'NALLA SUGAAN☺️ \n Dude_sir😘'  }, type: 1},
 
       ]
       
       const buttonMessage = {
           contentText: 'Endada monu sugalle🥰 \n Maaluttykk nalla sugaan😆',
-          footerText: '©ꪶ͢ʜᴜsɴɪ ÂÑD ɴɪᴊɪɴꫂ™',
+          footerText: '©ꪶDevil_sirꫂ™',
           buttons: buttons,
           headerType: 1
       }
