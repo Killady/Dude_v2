@@ -6,7 +6,7 @@ const Config = require('../config');
 
 if (Config.WORKTYPE == 'private') {
     
-Maalutty.addCommand({pattern: 'Maalutty', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'maalutty', fromMe: true,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
@@ -61,7 +61,7 @@ await message.sendMessage(r_text[i]);
 
 else if (Config.WORKTYPE == 'public') {
     
-Maalutty.addCommand({pattern: 'Maalutty', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
+Maalutty.addCommand({pattern: 'maalutty', fromMe: false,dontAddCommandList: true}, (async (message, match) => {
 
     var r_text = new Array ();    
 r_text[0] = "\nEda eda, mandankonappi.. Nee enne kooduthal mandan aakkatheda\n";
