@@ -8,7 +8,7 @@
     "success_url": "https://github.com/nijin-husni/Maalutty_V2",
     "stack": "container",
     "env": {
-        "Dude_SESSION": {
+        "MAALUTTY_SESSION": {
             "description": "Type here yours Dude Session.",
             "required": true
         },
@@ -126,7 +126,7 @@
             "value": "❤️Dude_V2💙"
         },
         "WORK_TYPE": {
-            "description": "Dude_v2 Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "Maalutty_v2 Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
