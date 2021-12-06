@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Killady">Killady</a> to make it p
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/MAALUTTY-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/Dude_v2-QR)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Killady/Dude_v2) 
