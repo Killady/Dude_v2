@@ -19,7 +19,11 @@ Dude_v2.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (messa
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `❤️Dude_v2💙
 
-*bot making video* : https://youtu.be/jF8wF1KdyOw
+
+*Whatsapp group* :https://chat.whatsapp.com/ByRcM1oaFETCOOtlhGYsJn.
+
+
+*Devil instagram* :https://instagram.com/athul_kochu_09871?utm_medium=copy_link
 
 
 *owner number Devil* :https://wa.me/918848477621.
@@ -30,10 +34,11 @@ Dude_v2.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (messa
 
 *audio commands* :https://github.com/Killady/uploads/tree/main/bgm.
 
+
 *sticker commands* :https://github.com/Killady/uploads/tree/main/stickers.
 ■□■□■□■□■□■□■□■□■□■□
 ❤️Dude_v2💙
-▣▣ ~Devil~ AND ~Maalutty~ ▣▣
+▣▣ ~Devil~ ▣▣
 
 `}) 
 
