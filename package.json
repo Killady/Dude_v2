@@ -1,5 +1,5 @@
 {
-  "name": " Dude_v2",
+  "name": "nijin-husni",
   "version": "7.3.6",
   "description": "Dude is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Maalutty_V2/bot.js",
@@ -17,8 +17,8 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Devil_sir",
-  "developer": "@Devil_sir / @Devil_sir",
+  "author": "nijin-husni",
+  "developer": "@nijin-husni / @nijin-husni",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/nijin-husni/Maalutty_V2/issues"
