@@ -30,10 +30,10 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*❤️MAALUTTY💙 created by Nijin and husni*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'*❤️DUDE SIR💙create by Athul*' , MessageType.text);
         }
         else {
-            await message.client.sendMessage(message.jid,Config.OWNER + '\n❤️MAALUTTY💙 created by Nijin and husni', MessageType.text);
+            await message.client.sendMessage(message.jid,Config.OWNER + '\❤️DUDE SIR💙create by Athul', MessageType.text);
         }
     }));
 }
