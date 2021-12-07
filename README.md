@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/Killady">Killady</a> to make it p
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/DUDE_SIR-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Husniser/DUDEV2-QR)
   
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Killady/Dude_v2) 
@@ -40,7 +40,7 @@ $ git clone https://github.com/Killady/Dude_v2
 $ cd Dude_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node Dude_v2.js
+$ node maalutty.js
 ```
       
 ```js
@@ -48,7 +48,7 @@ SETUP
 $ git clone https://github.com/Killady/Dude_v2
 $ cd Dude_v2
 $ npm i
-$ node Dude_v2.js
+$ node maalutty.js
 ```
 
 ----
@@ -56,8 +56,8 @@ $ node Dude_v2.js
   <p align="center">
   <a href="httsp://github.com/Killady/Dude_v2">
     
-<a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Killady/followers">
+<img src="https://img.shields.io/github/repo-size/Killady/Dude_v2?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Killady/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Killady?color=blue&style=flat-square"></a>
@@ -72,27 +72,11 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/ByRcM1oaFETCOOtlhGYsJn)
   <div align="center">
 
-
-Click WA logo to Join public bot Group👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BUt420LTGKBHNHALHKV9jJ)
-  <div align="center">
-
   </div>
-
-### youtube👇
-
-[![subscribe](https://i.ibb.co/mqttCVQ/images-1-1.png)](https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA)
-
 
 ### contact on instagram👇
 
-[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://www.instagram.com/_husni_ser_/)
-
-### ❤️ Dude_v2 💙 website⤵️
-
-[![view](https://i.ibb.co/cyXKpj7/images-7-1-1.jpg)](https://Dude_v2nijinhusni.blogspot.com)
+[![follow](https://i.ibb.co/zHdm4Hj/images-5-2.jpg)](https://instagram.com/athul_kochu_09871?utm_medium=copy_link)
 
 
 ### ⚠️ Warning! 
