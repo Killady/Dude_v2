@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=Welcome+to+Dude_v2+WA+Bot...;Created+by+Devil...;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 <div align="center">
-  <img border-radius: 15px src="20211205_102026.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/nRqrzc2/20211205-102026.jpg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Dude_v2" src="https://img.shields.io/badge/Dude_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
